@@ -42,7 +42,7 @@
 	// "services": [{ "binding": "MY_SERVICE", "service": "my-service" }]
 	"routes": [
 	  {
-		"pattern": "kasadadarragh.work/netlify/functions/login",
+		"pattern": "*kasadadarragh.work/.netlify/functions/login",
 		"zone_id": "9ee15f7eefe77e9ec6687774eb5f2b06"
 	  }
 	]
